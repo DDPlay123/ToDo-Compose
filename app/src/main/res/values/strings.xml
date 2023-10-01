@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">To-Do Compose</string>
+    <string name="logo">Logo</string>
+
+    <string name="add_task">新增任務</string>
+    <string name="tasks">任務列表</string>
+    <string name="search_tasks">搜尋任務</string>
+    <string name="sort_tasks">排序任務</string>
+    <string name="delete_all_tasks">刪除所有任務</string>
+    <string name="search">搜尋</string>
+    <string name="close">關閉</string>
+    <string name="empty">空</string>
+    <string name="not_found">找不到資料</string>
+    <string name="back">返回</string>
+    <string name="delete">刪除</string>
+    <string name="update">更新</string>
+    <string name="drop_down">下拉</string>
+    <string name="title">標題</string>
+    <string name="description">描述</string>
+    <string name="fields_empty">請勿為空</string>
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="delete_all">已刪除所有</string>
+
+    <string name="delete_task_title">移除 \'%1$s\'?</string>
+    <string name="delete_task_message">您確定要移除 \'%1$s\'?</string>
+    <string name="delete_all_tasks_title">移除所有任務?</string>
+    <string name="delete_all_tasks_message">您確定要移除所有任務? 這個動作無法復原!</string>
+</resources>
